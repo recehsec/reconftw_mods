@@ -3,7 +3,7 @@
 . ./reconftw.cfg
 
 dir=${tools}
-double_check=false
+double_check=true
 
 # ARM Detection
 if [ -f "/proc/cpuinfo" ]; then
