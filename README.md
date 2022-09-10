@@ -33,7 +33,7 @@
 </p>
 
 
-<h3 align="center">Summary</h3>
+<h3 align="center">Summary-Ringkasan</h3>
 
 **ReconFTW** automates the entire process of reconnaisance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.
 
