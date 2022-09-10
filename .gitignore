@@ -7,3 +7,6 @@ output/
 *.tar
 *.tar.*
 *.zip
+
+#Non-default
+*.out
